@@ -1,0 +1,19 @@
+{
+    "name": "empathy/admin-cookie",
+    "type": "library",
+    "description": "Set a cookie to indicate a "returning admin" so that analytics code is bypassed.",
+    "keywords": [
+        "lib"
+    ],
+    "homepage": "http://empathyphp.co.uk",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Mike Whiting",
+            "email": "mail@mikejw.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "Emapathy": "src/" }
+    }
+}
