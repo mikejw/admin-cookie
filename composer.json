@@ -1,7 +1,7 @@
 {
     "name": "mikejw/admin-cookie",
     "type": "library",
-    "description": "Set a cookie to indicate a "returning admin" so that analytics code is bypassed.",
+    "description": "Set a cookie to indicate a 'returning admin' so that analytics code is bypassed.",
     "keywords": [
         "lib"
     ],
