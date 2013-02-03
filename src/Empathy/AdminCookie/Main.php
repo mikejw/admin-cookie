@@ -1,8 +1,8 @@
 <?php
 
-namespace Empathy;
+namespace Empathy\AdminCookie;
 
-class AdminCookie
+class Main
 {
 
     public static function set_returning_admin_user()
