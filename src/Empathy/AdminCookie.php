@@ -1,6 +1,6 @@
 <?php
 
-namespace RtnAdmin;
+namespace Empathy\AdminCookie;
 
 function set_returning_admin_user()
 {
